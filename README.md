@@ -14,13 +14,7 @@ HTML is responsible for web structure
 - Element names are surrounded by angle brackets
 - Tag elements usually come in pairs (Start and end tag)
 -  Some tags close themselves
-
-### Examples:
-- <h1> Example </h1>
-- <br/> (Self closing tag)
-- <br> (is fine with HTML5)
-
-Total 6 heading tags (h1, h2, h3, h4, h5, h6)
+- Total 6 heading tags (h1, h2, h3, h4, h5, h6)
 
 #### Level Elements:
   Inline VS Block:
