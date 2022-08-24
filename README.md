@@ -15,26 +15,27 @@ HTML is responsible for web structure
 - Tag elements usually come in pairs (Start and end tag)
 -  Some tags close themselves
 
-Examples:
+### Examples:
 - <h1> Example </h1>
 - <br/> (Self closing tag)
 - <br> (is fine with HTML5)
 
 Total 6 heading tags (h1, h2, h3, h4, h5, h6)
 
-Level Elements:
+#### Level Elements:
   Inline VS Block:
     - Block elements are start on a new line and take the full width available
     - Inline elements do not start on a new line and take only the necessary width
-Some examples on block and inline level elements
+
+#### Some examples on block and inline level elements
  - Block Level: <div>, <h1> till <h6>, <p>,
  - Inline levelL <span>. <a>, <button>
 
-<div> is hold to elements together
+- c<div> is hold to elements together
 
-<a href="https://discord.gg/frontend" target="_blank">Discord server</a>
+- <a href="https://discord.gg/frontend" target="_blank">Discord server</a>
   
-Lists
+### cLists
 Ordered lists and unordered lists
 
 
