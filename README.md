@@ -30,8 +30,6 @@ Total 6 heading tags (h1, h2, h3, h4, h5, h6)
 #### Some examples on block and inline level elements
  - Block Level: <div>, <h1> till <h6>, <p>,
  - Inline levelL <span>. <a>, <button>
- - c<div> is hold to elements together
- - <a href="https://discord.gg/frontend" target="_blank">Discord server</a>
   
 ### cLists
 Ordered lists and unordered lists
